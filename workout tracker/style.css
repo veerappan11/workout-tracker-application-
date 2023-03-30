@@ -1,0 +1,19 @@
+body {
+	padding-top: 70px;
+}
+
+/* Center the form in the middle of the page */
+.form-group {
+	margin: 0 auto;
+	max-width: 500px;
+}
+
+/* Add some margin to the top of the table */
+.table {
+	margin-top: 30px;
+}
+
+/* Add some padding to the cells in the table */
+.table td, .table th {
+	padding: 0.5rem;
+}
